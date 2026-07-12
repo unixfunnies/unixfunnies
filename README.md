@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Mallorie!!!
+
+### WIP. This is a new GitHub account so I don't have any repos here yet. I'll flesh this out once I create something of substance.
 
 <!--
 **unixfunnies/unixfunnies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
